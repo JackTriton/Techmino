@@ -16,7 +16,7 @@ local languages={
     "语言  言語  언어",
     "Idioma  Línguas  Sprache",
     "Язык  Γλώσσα  Bahasa",
-	"Ngôn ngữ", 
+    "Ngôn ngữ", 
 }
 local curLang=1
 
